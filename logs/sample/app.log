@@ -1,0 +1,300 @@
+2024-06-01 08:00:37 ERROR Redis cache miss — falling back to DB
+2024-06-01 08:01:20 INFO Server started on port 8080
+2024-06-01 08:01:45 ERROR Payment gateway returned 503
+2024-06-01 08:01:55 WARNING High memory usage detected: 85%
+2024-06-01 08:02:34 CRITICAL Primary database unreachable
+2024-06-01 08:03:20 INFO Server started on port 8080
+2024-06-01 08:03:35 INFO Cache cleared successfully
+2024-06-01 08:04:20 INFO Database connection established
+2024-06-01 08:04:30 WARNING High memory usage detected: 85%
+2024-06-01 08:05:20 WARNING High memory usage detected: 85%
+2024-06-01 08:05:55 INFO Cache cleared successfully
+2024-06-01 08:06:21 INFO Database connection established
+2024-06-01 08:06:34 INFO User login successful
+2024-06-01 08:06:52 INFO User login successful
+2024-06-01 08:06:58 WARNING Slow query detected (1.8s)
+2024-06-01 08:07:48 INFO User login successful
+2024-06-01 08:08:05 WARNING Slow query detected (1.8s)
+2024-06-01 08:09:01 INFO Database connection established
+2024-06-01 08:10:00 INFO Server started on port 8080
+2024-06-01 08:10:18 INFO Database connection established
+2024-06-01 08:11:16 INFO User login successful
+2024-06-01 08:12:04 INFO Cache cleared successfully
+2024-06-01 08:12:22 INFO Server started on port 8080
+2024-06-01 08:12:29 INFO Server started on port 8080
+2024-06-01 08:12:59 CRITICAL Primary database unreachable
+2024-06-01 08:13:48 ERROR Database connection timeout
+2024-06-01 08:14:19 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:15:02 INFO User login successful
+2024-06-01 08:15:13 INFO Cache cleared successfully
+2024-06-01 08:16:11 INFO Cache cleared successfully
+2024-06-01 08:17:03 CRITICAL Out of memory — JVM heap exceeded
+2024-06-01 08:18:02 WARNING Slow query detected (1.8s)
+2024-06-01 08:18:35 ERROR Database connection timeout
+2024-06-01 08:18:41 INFO Database connection established
+2024-06-01 08:19:06 ERROR Database connection timeout
+2024-06-01 08:19:16 WARNING Retry attempt 2/3 for payment service
+2024-06-01 08:20:16 INFO Cache cleared successfully
+2024-06-01 08:20:49 WARNING Slow query detected (1.8s)
+2024-06-01 08:21:28 ERROR Redis cache miss — falling back to DB
+2024-06-01 08:21:56 INFO Server started on port 8080
+2024-06-01 08:22:23 WARNING Deprecated API endpoint called
+2024-06-01 08:23:17 INFO Cache cleared successfully
+2024-06-01 08:24:04 INFO Cache cleared successfully
+2024-06-01 08:24:40 WARNING Slow query detected (1.8s)
+2024-06-01 08:25:08 WARNING Deprecated API endpoint called
+2024-06-01 08:25:16 INFO Server started on port 8080
+2024-06-01 08:26:09 INFO Cache cleared successfully
+2024-06-01 08:26:19 INFO Cache cleared successfully
+2024-06-01 08:27:01 INFO User login successful
+2024-06-01 08:27:09 WARNING Slow query detected (1.8s)
+2024-06-01 08:27:52 INFO Server started on port 8080
+2024-06-01 08:28:29 INFO Cache cleared successfully
+2024-06-01 08:29:12 WARNING Retry attempt 2/3 for payment service
+2024-06-01 08:30:06 INFO Cache cleared successfully
+2024-06-01 08:30:14 INFO Cache cleared successfully
+2024-06-01 08:30:19 INFO Database connection established
+2024-06-01 08:31:15 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:31:50 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:32:47 INFO Server started on port 8080
+2024-06-01 08:33:21 INFO User login successful
+2024-06-01 08:33:52 INFO User login successful
+2024-06-01 08:34:02 INFO Cache cleared successfully
+2024-06-01 08:34:21 WARNING Retry attempt 2/3 for payment service
+2024-06-01 08:34:39 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:34:54 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:35:06 ERROR Database connection timeout
+2024-06-01 08:35:27 INFO Database connection established
+2024-06-01 08:36:01 INFO User login successful
+2024-06-01 08:36:46 CRITICAL Primary database unreachable
+2024-06-01 08:36:59 INFO Server started on port 8080
+2024-06-01 08:37:26 INFO User login successful
+2024-06-01 08:38:05 WARNING High memory usage detected: 85%
+2024-06-01 08:38:32 WARNING Slow query detected (1.8s)
+2024-06-01 08:38:41 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:39:15 INFO Cache cleared successfully
+2024-06-01 08:39:20 INFO User login successful
+2024-06-01 08:40:11 INFO Database connection established
+2024-06-01 08:40:54 WARNING Deprecated API endpoint called
+2024-06-01 08:41:40 CRITICAL Primary database unreachable
+2024-06-01 08:42:19 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:43:08 INFO User login successful
+2024-06-01 08:43:44 ERROR Database connection timeout
+2024-06-01 08:43:54 CRITICAL Primary database unreachable
+2024-06-01 08:44:25 INFO Cache cleared successfully
+2024-06-01 08:45:13 ERROR Redis cache miss — falling back to DB
+2024-06-01 08:46:06 INFO Database connection established
+2024-06-01 08:46:36 INFO Server started on port 8080
+2024-06-01 08:47:20 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:47:44 WARNING Slow query detected (1.8s)
+2024-06-01 08:48:04 INFO Cache cleared successfully
+2024-06-01 08:48:25 INFO Server started on port 8080
+2024-06-01 08:49:19 ERROR NullPointerException in OrderService.process()
+2024-06-01 08:50:14 INFO User login successful
+2024-06-01 08:50:29 WARNING High memory usage detected: 85%
+2024-06-01 08:50:54 INFO Cache cleared successfully
+2024-06-01 08:51:34 INFO Server started on port 8080
+2024-06-01 08:52:05 INFO User login successful
+2024-06-01 08:52:18 INFO Server started on port 8080
+2024-06-01 08:52:50 WARNING High memory usage detected: 85%
+2024-06-01 08:53:37 INFO Database connection established
+2024-06-01 08:54:18 INFO Database connection established
+2024-06-01 08:54:48 INFO User login successful
+2024-06-01 08:55:26 CRITICAL Out of memory — JVM heap exceeded
+2024-06-01 08:55:52 INFO User login successful
+2024-06-01 08:55:57 WARNING Deprecated API endpoint called
+2024-06-01 08:56:26 INFO User login successful
+2024-06-01 08:57:09 INFO Cache cleared successfully
+2024-06-01 08:57:36 INFO Cache cleared successfully
+2024-06-01 08:57:52 INFO Database connection established
+2024-06-01 08:57:57 INFO Database connection established
+2024-06-01 08:58:43 INFO Server started on port 8080
+2024-06-01 08:58:51 INFO User login successful
+2024-06-01 08:59:06 INFO User login successful
+2024-06-01 08:59:30 WARNING High memory usage detected: 85%
+2024-06-01 08:59:41 INFO Cache cleared successfully
+2024-06-01 09:00:06 INFO Server started on port 8080
+2024-06-01 09:00:54 WARNING Deprecated API endpoint called
+2024-06-01 09:01:17 INFO Cache cleared successfully
+2024-06-01 09:01:34 INFO User login successful
+2024-06-01 09:02:00 INFO Database connection established
+2024-06-01 09:02:45 ERROR Database connection timeout
+2024-06-01 09:02:53 INFO Server started on port 8080
+2024-06-01 09:03:51 ERROR NullPointerException in OrderService.process()
+2024-06-01 09:04:42 INFO Cache cleared successfully
+2024-06-01 09:05:31 INFO User login successful
+2024-06-01 09:06:29 INFO Database connection established
+2024-06-01 09:07:24 INFO User login successful
+2024-06-01 09:08:24 WARNING Slow query detected (1.8s)
+2024-06-01 09:09:02 INFO User login successful
+2024-06-01 09:09:17 INFO Cache cleared successfully
+2024-06-01 09:09:36 INFO Server started on port 8080
+2024-06-01 09:10:14 INFO Database connection established
+2024-06-01 09:11:05 INFO Server started on port 8080
+2024-06-01 09:11:43 INFO Server started on port 8080
+2024-06-01 09:11:59 INFO Cache cleared successfully
+2024-06-01 09:12:31 INFO Database connection established
+2024-06-01 09:12:59 INFO Database connection established
+2024-06-01 09:13:37 INFO Database connection established
+2024-06-01 09:13:47 INFO Server started on port 8080
+2024-06-01 09:14:44 INFO Cache cleared successfully
+2024-06-01 09:15:28 WARNING High memory usage detected: 85%
+2024-06-01 09:15:39 INFO Database connection established
+2024-06-01 09:16:31 INFO Database connection established
+2024-06-01 09:16:52 INFO Cache cleared successfully
+2024-06-01 09:16:57 WARNING Retry attempt 2/3 for payment service
+2024-06-01 09:17:34 INFO Cache cleared successfully
+2024-06-01 09:17:45 INFO User login successful
+2024-06-01 09:18:21 INFO Cache cleared successfully
+2024-06-01 09:18:55 INFO User login successful
+2024-06-01 09:19:12 INFO Database connection established
+2024-06-01 09:20:09 INFO Server started on port 8080
+2024-06-01 09:20:22 WARNING Slow query detected (1.8s)
+2024-06-01 09:20:30 INFO Server started on port 8080
+2024-06-01 09:20:42 INFO Cache cleared successfully
+2024-06-01 09:21:04 INFO Cache cleared successfully
+2024-06-01 09:21:10 ERROR Payment gateway returned 503
+2024-06-01 09:21:30 INFO Database connection established
+2024-06-01 09:21:52 WARNING Deprecated API endpoint called
+2024-06-01 09:22:43 INFO Database connection established
+2024-06-01 09:22:50 INFO Cache cleared successfully
+2024-06-01 09:23:12 INFO Server started on port 8080
+2024-06-01 09:23:51 INFO User login successful
+2024-06-01 09:24:35 INFO Server started on port 8080
+2024-06-01 09:24:54 INFO Server started on port 8080
+2024-06-01 09:25:35 WARNING Slow query detected (1.8s)
+2024-06-01 09:26:10 INFO Database connection established
+2024-06-01 09:26:27 WARNING High memory usage detected: 85%
+2024-06-01 09:27:27 INFO User login successful
+2024-06-01 09:27:37 ERROR Redis cache miss — falling back to DB
+2024-06-01 09:28:21 WARNING High memory usage detected: 85%
+2024-06-01 09:29:20 INFO Cache cleared successfully
+2024-06-01 09:30:09 WARNING Retry attempt 2/3 for payment service
+2024-06-01 09:30:40 INFO Cache cleared successfully
+2024-06-01 09:30:51 INFO Database connection established
+2024-06-01 09:31:40 INFO Database connection established
+2024-06-01 09:31:45 INFO Cache cleared successfully
+2024-06-01 09:32:08 ERROR Database connection timeout
+2024-06-01 09:32:13 INFO User login successful
+2024-06-01 09:33:10 ERROR Payment gateway returned 503
+2024-06-01 09:33:33 INFO Server started on port 8080
+2024-06-01 09:33:55 ERROR NullPointerException in OrderService.process()
+2024-06-01 09:34:41 INFO Database connection established
+2024-06-01 09:35:33 INFO User login successful
+2024-06-01 09:36:01 INFO Database connection established
+2024-06-01 09:36:11 INFO Server started on port 8080
+2024-06-01 09:36:54 WARNING High memory usage detected: 85%
+2024-06-01 09:37:02 ERROR NullPointerException in OrderService.process()
+2024-06-01 09:37:58 INFO Cache cleared successfully
+2024-06-01 09:38:42 WARNING Deprecated API endpoint called
+2024-06-01 09:39:20 INFO Server started on port 8080
+2024-06-01 09:39:52 INFO User login successful
+2024-06-01 09:40:17 INFO Cache cleared successfully
+2024-06-01 09:40:43 INFO Database connection established
+2024-06-01 09:41:30 INFO Database connection established
+2024-06-01 09:42:03 INFO Cache cleared successfully
+2024-06-01 09:42:32 ERROR Database connection timeout
+2024-06-01 09:42:56 ERROR NullPointerException in OrderService.process()
+2024-06-01 09:43:25 INFO Database connection established
+2024-06-01 09:44:11 INFO Cache cleared successfully
+2024-06-01 09:44:47 INFO Cache cleared successfully
+2024-06-01 09:45:39 INFO Database connection established
+2024-06-01 09:46:13 INFO Server started on port 8080
+2024-06-01 09:46:44 INFO Database connection established
+2024-06-01 09:46:56 INFO Cache cleared successfully
+2024-06-01 09:47:24 INFO User login successful
+2024-06-01 09:48:05 INFO Cache cleared successfully
+2024-06-01 09:49:03 INFO Database connection established
+2024-06-01 09:49:34 WARNING Slow query detected (1.8s)
+2024-06-01 09:50:10 INFO Server started on port 8080
+2024-06-01 09:50:27 INFO User login successful
+2024-06-01 09:50:58 INFO Database connection established
+2024-06-01 09:51:13 INFO Server started on port 8080
+2024-06-01 09:51:57 INFO User login successful
+2024-06-01 09:52:19 WARNING Slow query detected (1.8s)
+2024-06-01 09:52:26 WARNING High memory usage detected: 85%
+2024-06-01 09:53:00 INFO Server started on port 8080
+2024-06-01 09:53:09 INFO Server started on port 8080
+2024-06-01 09:53:28 ERROR NullPointerException in OrderService.process()
+2024-06-01 09:53:42 INFO User login successful
+2024-06-01 09:54:15 INFO User login successful
+2024-06-01 09:54:46 INFO Cache cleared successfully
+2024-06-01 09:55:43 INFO Server started on port 8080
+2024-06-01 09:56:18 INFO Cache cleared successfully
+2024-06-01 09:56:27 WARNING Deprecated API endpoint called
+2024-06-01 09:56:38 WARNING Deprecated API endpoint called
+2024-06-01 09:56:44 INFO User login successful
+2024-06-01 09:57:08 INFO User login successful
+2024-06-01 09:57:25 INFO Server started on port 8080
+2024-06-01 09:57:32 WARNING Retry attempt 2/3 for payment service
+2024-06-01 09:58:04 INFO Cache cleared successfully
+2024-06-01 09:58:33 INFO Server started on port 8080
+2024-06-01 09:58:51 INFO Server started on port 8080
+2024-06-01 09:59:46 INFO Cache cleared successfully
+2024-06-01 09:59:57 INFO User login successful
+2024-06-01 10:00:03 INFO Cache cleared successfully
+2024-06-01 10:00:16 INFO Cache cleared successfully
+2024-06-01 10:00:51 INFO Cache cleared successfully
+2024-06-01 10:01:09 INFO Database connection established
+2024-06-01 10:02:02 WARNING Retry attempt 2/3 for payment service
+2024-06-01 10:02:24 ERROR Payment gateway returned 503
+2024-06-01 10:03:02 INFO Server started on port 8080
+2024-06-01 10:03:42 ERROR NullPointerException in OrderService.process()
+2024-06-01 10:04:27 ERROR Redis cache miss — falling back to DB
+2024-06-01 10:05:02 ERROR Payment gateway returned 503
+2024-06-01 10:05:35 INFO User login successful
+2024-06-01 10:05:59 INFO Cache cleared successfully
+2024-06-01 10:06:08 WARNING Deprecated API endpoint called
+2024-06-01 10:06:34 INFO Server started on port 8080
+2024-06-01 10:07:02 INFO User login successful
+2024-06-01 10:07:32 INFO Server started on port 8080
+2024-06-01 10:07:46 WARNING Deprecated API endpoint called
+2024-06-01 10:08:36 INFO Server started on port 8080
+2024-06-01 10:08:43 INFO User login successful
+2024-06-01 10:09:02 INFO Server started on port 8080
+2024-06-01 10:09:42 WARNING Slow query detected (1.8s)
+2024-06-01 10:10:28 WARNING High memory usage detected: 85%
+2024-06-01 10:11:21 INFO Cache cleared successfully
+2024-06-01 10:11:49 INFO User login successful
+2024-06-01 10:12:31 INFO Database connection established
+2024-06-01 10:12:57 CRITICAL Out of memory — JVM heap exceeded
+2024-06-01 10:13:37 INFO Server started on port 8080
+2024-06-01 10:14:19 INFO Server started on port 8080
+2024-06-01 10:14:27 INFO Server started on port 8080
+2024-06-01 10:15:13 WARNING Deprecated API endpoint called
+2024-06-01 10:15:55 INFO Server started on port 8080
+2024-06-01 10:16:10 CRITICAL Primary database unreachable
+2024-06-01 10:16:58 INFO Cache cleared successfully
+2024-06-01 10:17:35 WARNING Deprecated API endpoint called
+2024-06-01 10:18:10 ERROR Database connection timeout
+2024-06-01 10:18:33 INFO Database connection established
+2024-06-01 10:18:55 INFO User login successful
+2024-06-01 10:19:50 ERROR NullPointerException in OrderService.process()
+2024-06-01 10:20:00 ERROR NullPointerException in OrderService.process()
+2024-06-01 10:20:30 INFO Database connection established
+2024-06-01 10:20:49 WARNING High memory usage detected: 85%
+2024-06-01 10:21:49 INFO Server started on port 8080
+2024-06-01 10:22:31 INFO Database connection established
+2024-06-01 10:23:27 INFO User login successful
+2024-06-01 10:24:20 INFO Database connection established
+2024-06-01 10:24:34 INFO User login successful
+2024-06-01 10:25:20 INFO Database connection established
+2024-06-01 10:26:20 ERROR NullPointerException in OrderService.process()
+2024-06-01 10:27:12 WARNING High memory usage detected: 85%
+2024-06-01 10:27:35 INFO Server started on port 8080
+2024-06-01 10:27:54 INFO User login successful
+2024-06-01 10:28:35 INFO Cache cleared successfully
+2024-06-01 10:28:49 INFO Database connection established
+2024-06-01 10:29:27 INFO Database connection established
+2024-06-01 10:30:24 INFO Cache cleared successfully
+2024-06-01 10:31:23 INFO Cache cleared successfully
+2024-06-01 10:32:14 INFO Cache cleared successfully
+2024-06-01 10:32:46 CRITICAL Primary database unreachable
+2024-06-01 10:33:21 WARNING Deprecated API endpoint called
+2024-06-01 10:33:59 CRITICAL Out of memory — JVM heap exceeded
+2024-06-01 10:34:14 INFO Database connection established
+2024-06-01 10:35:13 WARNING High memory usage detected: 85%
+2024-06-01 10:35:32 INFO User login successful
+2024-06-01 10:35:41 INFO User login successful
+2024-06-01 10:36:38 WARNING Retry attempt 2/3 for payment service
+2024-06-01 10:36:53 INFO Database connection established
