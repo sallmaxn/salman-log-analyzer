@@ -127,4 +127,4 @@ python -m pytest tests/ -v
 
 **Salman Paris**
 BSc Artificial Intelligence & Machine Learning
-[LinkedIn](https://linkedin.com/in/salmanparis) · [GitHub](https://github.com/salmanparis)
+[LinkedIn](https://linkedin.com/in/salman-paris-6386103a3) . [GitHub](https://github.com/sallmaxn)
